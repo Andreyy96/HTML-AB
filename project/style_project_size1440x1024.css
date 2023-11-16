@@ -1,0 +1,359 @@
+@media screen and (max-width: 1441px) {
+
+
+    header>div.logo {
+        padding: 2.4414vh 77.7083vw 1.46481vh 9.375vw;
+    }
+
+    header>div.logo>a {
+        width: 12.9166666667vw;
+        height: 4.883vh;
+    }
+
+    header>div.logo>a>img {
+        width: 12.9166666667vw;
+        height: 4.883vh;
+    }
+
+    header>div.navigation_block>nav {
+        width: 44vw;
+        height: 5.859375vh;
+        padding: 0 46.5972vw 0 9.375vw;
+    }
+
+
+    /*tab1*/
+
+    div.Tabpanel {
+        width: 100%;
+        height: 43.9453125vh;
+    }
+    div.Tabpanel>div.slide-item_content {
+        width: 39.5833333333vw;
+        height: 22.4609375vh;
+        left: 9.375vw;
+        padding: 0;
+    }
+
+    div.Tabpanel>div.slide-item_content>h2 {
+        width: 20.8150694444vw;
+    }
+
+    div.Tabpanel>div.slide-item_content>p {
+        width: 21.7170138889vw;
+    }
+
+
+    div.container_field {
+        width: 81.25vw;
+        height: 20.703125vh;
+        left: 8.3333333333vw;
+        bottom: -6.5vh;
+        padding: 0 1.0416666667vw;
+    }
+
+    div.container_field>div.div_field {
+        width: 39.584vw;
+        height: 7.032vh;
+        margin: 0;
+    }
+
+    div.container_field>div.div_field>form {
+        width: 39.584vw;
+        height: 7.032vh;
+    }
+
+    div.container_field>div.div_field>form>input[type=number] {
+        width: 21.528vw;
+        height: 7.032vh;
+        padding: 0 15.9722vw 0 2.0833vw;
+    }
+
+    div.container_field>div.div_field>form>input[type=number]::placeholder {
+        width: 16.1722916667vw;
+    }
+
+    div.container_field>div.div_field>form>button.button_submit {
+        width: 9.375vw;
+        height: 7.03125vh;
+        padding: 0;
+        right: 0.69442vw;
+    }
+
+    div.container_field>div.group_button {
+        gap: 30px;
+    }
+
+    div.container_field>div.group_button>button {
+        width: 19vw;
+        height: 7.8125vh;
+        padding: 0 2.083296vw;
+    }
+
+    div.container_field>div.group_button>button>p {
+        width: 12vw;
+    }
+
+    div.container_field>div.group_button>button>p>svg {
+        margin-right: 1.388888888888889vw;
+
+    }
+
+    /* services block - 1*/
+
+    div.services_block {
+        height: 68.36vh;
+        padding-top: 9.765625vh;
+    }
+
+    div.services_block>div.container {
+        width: 83.33333333333333vw;
+        height: 68.36vh;
+    }
+
+
+    div.services_block>div.container>div.col-xl-4 {
+        width: 25.695vw;
+        height: 61.524vh;
+        padding: 0 1.0416666667vw;
+    }
+
+    div.services_block>div.container>div.col-xl-4>h2 {
+        width: 14.231875vw;
+        margin-bottom: 3.515625vh;
+    }
+
+    div.services_block>div.container>div.col-xl-4>p {
+        width: 25.5935416667vw;
+    }
+
+    div.services_block>div.container>div.block {
+        width: 55.55555555555556vw;
+        height: 59.5703125vh;
+    }
+
+    div.services_block>div.container>div.block>div.service {
+        width: 25.695vw;
+        height: 17.579vh;
+        margin-left: 1.041666666666667VW;
+    }
+
+    div.services_block>div.container>div.block>div.service>a {
+        width: 25.695vw;
+        height: 17.579vh;
+    }
+
+
+    div.services_block>div.container>div.block>div.item4>a>p.top73 {
+        top: 7.12890625vh;
+    }
+
+
+    div.services_block>div.container>div.block>div.service>a>h4 {
+        top: 0.9765625vh;
+        left: 2.0833333333vw;
+        margin-top: 2.9296875vh;
+    }
+
+    div.services_block>div.container>div.block>div.item1>a>h4 {
+        width: 8.580625vw;
+    }
+
+    div.services_block>div.container>div.block>div.item2>a>h4 {
+        width: 9.859722222222222vw;
+    }
+
+    div.services_block>div.container>div.block>div.item3>a>h4 {
+        width: 23.61111111111111vw;
+    }
+
+    div.services_block>div.container>div.block>div.item4>a>h4 {
+        width: 12.69111111111111vw;
+    }
+
+    div.services_block>div.container>div.block>div.item5>a>h4 {
+        width: 8.288472222222222vw;
+    }
+
+    div.services_block>div.container>div.block>div.item6>a>h4 {
+        width: 9.650555555555556vw;
+    }
+
+
+    div.services_block>div.container>div.block>div.service>a>p {
+        width: 7.2503472222vw;
+        top: 9.765625vh;
+        left: 2.0833333333vw;
+    }
+
+    /*    block offers */
+
+    div.export-code-block {
+        height: 38.087vh;
+        padding: 11.71875vh 9.375vw 14.6484375vh 9.375vw;
+    }
+
+    div.export-code-block>div.export-code-wrapper {
+        width: 47.57vw;
+        height: 38.087vh;
+        padding-right: 33.6805555556vw;
+    }
+
+    div.export-code-block>div.export-code-wrapper>div.col-xl-7 {
+        width: 46.528vw;
+        height: 38.087vh;
+        padding: 0 1.0416666667vw;
+    }
+
+    div.export-code-block>div.export-code-wrapper>div.col-xl-7>h2 {
+        margin-bottom: 1.953125vh;
+    }
+
+    div.export-code-block>div.export-code-wrapper>div.col-xl-7>p {
+        width: 24.69152777777778vw;
+    }
+
+    div.export-code-block>div.export-code-wrapper>div.col-xl-7>button {
+        width: 21.181vw;
+        height: 7.813vh;
+        padding: 2.734375vh 0;
+        margin: 2.44140625vh 0 0 1.0416666667vw;
+    }
+
+    div.export-code-block>div.export-code-wrapper>div.col-xl-7>button>p {
+        width: 6.1483333333vw;
+    }
+
+/*    services block - 2*/
+
+    div.services_block_2 {
+        width: 100vw;
+        height: 76.173vh;
+        padding-top: 9.765625vh;
+    }
+
+    div.services_block_2>div.container {
+        width: 81.25vw;
+        height: 76.173vh;
+        padding: 0 1.0416666667vw;
+    }
+
+    div.services_block_2>div.container>div.Tabpanel_2 {
+        width: 81.25vw;
+        height: 21.4851vh;
+    }
+
+    div.services_block_2>div.container>div.Tabpanel_2>a {
+        width: 81.25vw;
+        height: 21.4851vh;
+    }
+
+    div.services_block_2>div.container>div.Tabpanel_2>a>h2 {
+        width: 67.8576388889vw;
+        padding: 0 2.9166666667vw 0 0;
+        margin-top: 2.9296875vh;
+
+    }
+
+    div.services_block_2>div.container>div.Tabpanel_2>a>p {
+        width: 71.1183333333vw;
+        margin: 0.9765625vh 0 0.9765625vh 0;
+    }
+
+    div.services_block_2>div.container>div.Tabpanel_2>a>p.Table_panel_link>img {
+        height: 1.171875vh;
+        margin-bottom: -0.1953125vh;
+    }
+
+    div.services_block_2>div.container>h2 {
+        width: 31.9839583333vw;
+        top: 33.30078125vh;
+        left: 1.041666666666667vw;
+    }
+
+    div.services_block_2>div.container>div.item1 {
+        top: 43.9453125vh;
+        left: 1.041666666666667vw;
+    }
+
+    div.services_block_2>div.container>div.item2 {
+        top: 43.9453125vh;
+        left: 21.875vw;
+    }
+
+    div.services_block_2>div.container>div.item3 {
+        top: 43.9453125vh;
+        left: 42.70833333333333vw;
+    }
+
+    div.services_block_2>div.container>div.service>a>h4 {
+        top: 3.125vh;
+        left: 2.083333333333333vh;
+    }
+
+    div.services_block_2>div.container>div.item1>a>h4 {
+        width: 8.147291666666667vw;
+    }
+
+    div.services_block_2>div.container>div.item2>a>h4 {
+        width: 10.2225vw;
+    }
+
+    div.services_block_2>div.container>div.item3>a>h4 {
+        width: 11.30597222222222vw;
+    }
+
+    div.services_block_2>div.container>div.service>a>p {
+        top: 10.25390625vh;
+        left: 2.083333333333333vh;
+    }
+
+    div.services_block_2>div.container>div.service>a>p.top73 {
+      top: 7.12890625vh;
+    }
+
+    div.services_block_2>div.container>div.service>a {
+        width: 18.75vw;
+        height: 26.3671875vh;
+    }
+
+    div.services_block_2>div.container>div.service {
+        width: 18.75vw;
+        height: 26.3671875vh;
+    }
+
+    /*  find index  */
+
+    div.zip-code-block {
+        height: 35.645vh;
+        padding: 13.134765625vh 8.3333333333vw 13.232421875vh 8.3333333333vw ;
+    }
+
+    div.zip-code-block>div.col-xl-12 {
+        width: 81.25vw;
+        height: 35.645vh;
+        padding: 0 1.041666666666667vw;
+    }
+
+    div.zip-code-block>div.col-xl-12>div.form {
+        width: 54.02520833333333vw;
+        height: 7.911vh;
+        top: 25vh;
+    }
+    div.zip-code-block>div.col-xl-12>div.form>form {
+        width: 54.02520833333333vw;
+        height: 7.911vh;
+    }
+
+    div.zip-code-block>div.col-xl-12>div.form>form>label>input[type=text] {
+        width: 30.973vw;
+        height: 7.618vh;
+        padding: 0 2.083333333333333vw;
+    }
+
+    div.zip-code-block>div.col-xl-12>div.form>form>button {
+        width: 17.473vw;
+        height: 7.3vh;
+        padding: 1.73437vw 5.972222222222222vw 1.734375vw 6.041666666666667vw;
+    }
+}
